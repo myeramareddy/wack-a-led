@@ -25,5 +25,7 @@ Technologies and Components
 
 
 Demo
-<iframe width="530" height="430" src="https://www.youtube.com/embed/2vQpdqegKcY" frameborder="0" allowfullscreen></iframe>	
+
+
+[![ScreenShot](http://img.youtube.com/vi/VIDEO-ID/0.jpg)](https://www.youtube.com/embed/2vQpdqegKcY)
 
