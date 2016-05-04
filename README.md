@@ -9,8 +9,7 @@ User Guide
 - Pause - ‘C’
 - Un-Pause - ‘D’
 
-Rules & Conditions
-Starts out with 2 lives, but can work upto 3 lives for every 10 consecutive hits.
+Rules & Conditions : Starts out with 2 lives, but can work upto 3 lives for every 10 consecutive hits.
 If the players hits when the LCD displays ‘Don’t Hit LED’, then the player loses regardless of how many lives are left.
 If the player hovers over any other photoresistor other than the one they are supposed to, the hit doesn’t count.
 Sequence of LED’s speeds up every fourth LED by 200ms.
